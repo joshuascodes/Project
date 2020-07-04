@@ -1,0 +1,5 @@
+Use the following two steps to run Conway's Game of Life in Python from the command line.
+
+1) Type "python Conways_game_of_life.py" on the command line and press enter
+
+2) Type "50 14:40 15:42 16:39 16:40 16:43 16:44 16:45" and press enter
