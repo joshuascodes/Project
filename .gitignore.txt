@@ -1,3 +1,4 @@
+*.[tzf]
 *.Game_of_life_instructions.txt
 *.Guidelines_to_replicate_Game_of_life.pdf
 *.MachineLearning_CovType-checkpoint.IPYNB
